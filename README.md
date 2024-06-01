@@ -1,3 +1,6 @@
+# Content-Based Filtering :
+A Content-Based Recommender works by the data that we take from the user, either explicitly (rating) or implicitly (clicking on a link). By the data we create a user profile, which is then used to suggest to the user, as the user provides more input or take more actions on the recommendation, the engine becomes more accurate.
+
 # Reference:
 https://www.youtube.com/watch?v=uOPZZrrcKKs
 

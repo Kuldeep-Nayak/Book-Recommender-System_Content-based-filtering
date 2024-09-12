@@ -6,4 +6,7 @@ https://www.youtube.com/watch?v=uOPZZrrcKKs
 
 #### This is a team project of 5 members in the Skill and Project Lab in 5th semester during B.Tech. CSE.
 #### Other team members of this project:
-#### Abhisek Sahu, Bimalendu Meher, Praveen Kumar Gonjhu, Suryanshu Kumar Patra
+#### Abhisek Sahu  
+**Bimalendu Meher**: https://github.com/BimalenduMeher  
+#### Praveen Kumar Gonjhu  
+#### Suryanshu Kumar Patra

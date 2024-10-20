@@ -4,7 +4,8 @@ A Content-Based Recommender works by the data that we take from the user, either
 # Reference:
 https://www.youtube.com/watch?v=uOPZZrrcKKs
 
-#### This is a team project of 5 members in the Skill and Project Lab in 5th semester during B.Tech. CSE.
+#### This is a team project of 5 members completed in the Skill and Project Lab during the 5th semester of my B.Tech. CSE.
+
 #### Other team members of this project:
 #### Abhisek Sahu  
 **Bimalendu Meher**: https://github.com/BimalenduMeher  

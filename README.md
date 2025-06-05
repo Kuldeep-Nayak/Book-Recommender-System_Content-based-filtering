@@ -10,4 +10,4 @@ https://www.youtube.com/watch?v=uOPZZrrcKKs
 #### Abhisek Sahu  
 **Bimalendu Meher**: https://github.com/BimalenduMeher  
 #### Praveen Kumar Gonjhu  
-#### Suryanshu Kumar Patra
+**Suryanshu Kumar Patra**: https://www.linkedin.com/in/suryanshu-kumar-patra-a60987228/
